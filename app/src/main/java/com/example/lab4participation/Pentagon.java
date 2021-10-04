@@ -4,4 +4,5 @@ public class Pentagon extends Shape{
     Pentagon(int x, int y){
         super(x,y);
     }
+    String color = "blue";
 }
