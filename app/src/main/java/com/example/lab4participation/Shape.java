@@ -4,6 +4,7 @@ public class Shape {
     int x;
     int y;
     
+    //Step 3
     String color = "Baby Blue";
     
     Shape(int x, int y){
